@@ -1,0 +1,8 @@
+# Ignore CSV datasets
+data/**/*.csv
+
+# Ignore Excel datasets
+data/**/*.xlsx
+
+# Ignore environment secrets
+.env
